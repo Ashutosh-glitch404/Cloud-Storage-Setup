@@ -2,15 +2,15 @@
 
 "COMPANY": CODTECH IT SOLUTIONS
 
-*NAME* : Harsh Shelke
+*NAME* : Ashutosh Watharkar
 
-*INTERN ID*: CT04DF534
+*INTERN ID*: CT04DF1778
 
 *DOMAIN*: Cloud Computing
 
 *DURATION*: 4 WEEEKS
 
-*MENTOR*: NEELA SANTOSH
+*MENTOR*:  NEELA SANTHOSH KUMAR
 
 Descripription-
 
