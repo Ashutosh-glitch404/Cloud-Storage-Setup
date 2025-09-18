@@ -101,4 +101,4 @@ Task 1 is foundational to understanding cloud computing. AWS S3 is not just a st
 
 #Output-
 
-![Image](https://github.com/user-attachments/assets/5d3808dd-98e2-4470-ba03-336334b5ea9d)
+<img width="1536" height="1024" alt="AWS S3 console page" src="https://github.com/user-attachments/assets/a18b11ab-751b-470f-806a-df32d683c278" />
